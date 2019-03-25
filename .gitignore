@@ -36,4 +36,5 @@ vignettes/*.pdf
 rsconnect/
 
 #ignore r files
-.r
+*.r
+*.R
